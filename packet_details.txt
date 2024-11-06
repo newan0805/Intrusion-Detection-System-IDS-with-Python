@@ -1,0 +1,107 @@
+Packet 1:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 2:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 3:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 4:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 5:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 6:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 7:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 8:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 9:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: ff:ff:ff:ff:ff:ff
+    Ether Type: 2054
+    ARP Operation: 1
+    ARP Sender IP: 192.168.8.69
+    ARP Sender MAC: 0a:00:27:00:00:02
+    ARP Target IP: 192.168.8.1
+    ARP Target MAC: 00:00:00:00:00:00
+
+Packet 10:
+    MAC Source: 0a:00:27:00:00:02
+    MAC Destination: 01:00:5e:00:00:fb
+    Ether Type: 2048
+    IP Source: 192.168.8.69
+    IP Destination: 224.0.0.251
+    Protocol: 17
+    TTL: 1
+    Flags: 
+    Fragment Offset: 0
+    UDP Source Port: 65458
+    UDP Destination Port: 5353
+    Length: 45
+    DNS Query: b'_arduino._tcp.local.'
+    Query Type: 12
+    Answer Count: 0
+
